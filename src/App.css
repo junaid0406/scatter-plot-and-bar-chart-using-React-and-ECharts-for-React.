@@ -1,0 +1,10 @@
+ .nav-ul{
+    background-color: rgb(0, 225, 255);
+    margin: 0px;
+    text-align: center;
+    padding: 16px;
+ }
+ .nav-ul li{
+   display: inline-block;
+   padding: 8px;
+ }
