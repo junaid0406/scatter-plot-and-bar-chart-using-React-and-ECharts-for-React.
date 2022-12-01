@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-https://github.com/junaid0406/scatter-plot-and-bar-chart-using-React-and-ECharts.git
+https://github.com/junaid0406/scatter-plot-and-bar-chart-using-React-and-ECharts-for-React..git
 ```
 # After Cloning the app please install the required dependencies by
 ```bash
